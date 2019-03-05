@@ -1,0 +1,14 @@
+Program Pseudocode:
+  initialize passes to zero
+  initialize failures to zero
+  initialize student to one
+  while student counter is less than or equal to ten
+    input the next exam result
+      if the student passed
+        add one to passes
+       else
+        add one to failures
+  add one to student counter
+  print the number of passes
+  print the number of failures
+End.
